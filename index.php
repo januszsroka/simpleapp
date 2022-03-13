@@ -6,10 +6,10 @@
 
 <body> 
 	<h1>PHP Test</h1>
-		<p><b>An Example of PHP in Action</b></p>
-		<?php echo "The Current Date and Time is: <br />"; 
+		<p><b>To jest przukład PHP w działaniu</b></p>
+		<?php echo "Obecnie jest: <br />"; 
 		echo date("g:i A l, F j Y.");
-        echo "\nTo jest branch 0313_01";  ?> </p>
+        echo "<br /><strong>To jest branch 0313_01</strong>";  ?> </p>
 	<h2>PHP Information</h2> 
 		<p> <?php phpinfo(); ?> </p> 
         <h2>GOEDEMIDDAG GEZELLIGE GRIEZELS UIT GRONINGEN</h2>
